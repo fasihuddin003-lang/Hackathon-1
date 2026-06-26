@@ -13,11 +13,13 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://fasihuddin.github.io',
-  baseUrl: '/physical-ai-textbook/',
+  url: 'https://fasihuddin003-lang.github.io',
+  baseUrl: '/Hackathon-1/',
 
-  organizationName: 'fasihuddin',
-  projectName: 'physical-ai-textbook',
+  trailingSlash: false,
+
+  organizationName: 'fasihuddin003-lang',
+  projectName: 'Hackathon-1',
 
   onBrokenLinks: 'warn',
 
@@ -75,7 +77,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/fasihuddin/physical-ai-textbook',
+          href: 'https://github.com/fasihuddin003-lang/Hackathon-1',
           label: 'GitHub',
           position: 'right',
         },
@@ -114,7 +116,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/fasihuddin/physical-ai-textbook',
+              href: 'https://github.com/fasihuddin003-lang/Hackathon-1',
             },
           ],
         },
