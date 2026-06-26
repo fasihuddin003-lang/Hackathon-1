@@ -1,0 +1,17 @@
+{
+  "name": "auth-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch server.ts",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-auth": "^1.6.21",
+    "better-sqlite3": "^12.11.1",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "tsx": "^4.22.4"
+  }
+}

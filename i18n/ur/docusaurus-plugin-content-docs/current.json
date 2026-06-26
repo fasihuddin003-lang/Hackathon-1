@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "موجودہ",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Modules": {
+    "message": "ماڈیولز",
+    "description": "The label for category 'Modules' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Weekly Breakdown": {
+    "message": "ہفتہ وار تقسیم",
+    "description": "The label for category 'Weekly Breakdown' in sidebar 'tutorialSidebar'"
+  }
+}
