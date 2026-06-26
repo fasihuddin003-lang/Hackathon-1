@@ -13,10 +13,10 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://your-username.github.io',
+  url: 'https://fasihuddin.github.io',
   baseUrl: '/physical-ai-textbook/',
 
-  organizationName: 'your-username',
+  organizationName: 'fasihuddin',
   projectName: 'physical-ai-textbook',
 
   onBrokenLinks: 'warn',
@@ -75,7 +75,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/your-username/physical-ai-textbook',
+          href: 'https://github.com/fasihuddin/physical-ai-textbook',
           label: 'GitHub',
           position: 'right',
         },
@@ -114,7 +114,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/your-username/physical-ai-textbook',
+              href: 'https://github.com/fasihuddin/physical-ai-textbook',
             },
           ],
         },

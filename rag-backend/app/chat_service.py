@@ -1,9 +1,9 @@
 from openai import OpenAI
 
-from .config import OPENAI_API_KEY, CHAT_MODEL
+from .config import GROQ_API_KEY, CHAT_MODEL, GROQ_BASE_URL
 from .qdrant_service import search_similar
 
-client = OpenAI(api_key=OPENAI_API_KEY)
+client = OpenAI(api_key=GROQ_API_KEY, base_url=GROQ_BASE_URL)
 
 SYSTEM_PROMPT = """You are a helpful tutor for the Physical AI & Humanoid Robotics textbook.
 Answer questions based ONLY on the provided context from the textbook.
