@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkd_my_project_hackathon_1_physical_ai_textbook=self.webpackChunkd_my_project_hackathon_1_physical_ai_textbook||[]).push([["56"],{8552(a){a.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
